@@ -5,6 +5,7 @@ Como son tus primeros pasos
 en este lenguaje, solamente te han enseñado a utilizar variables, funciones y condicionales.
 El profesor a cargo te asigna la tarea de crear un menú en JavaScript con la intención de evaluar si
 has logrado interiorizar correctamente los nuevos conocimientos.
+
 2.- Desarrolla el código necesario para crear la página web considerando los siguientes
 requerimientos:
 
